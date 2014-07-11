@@ -1,0 +1,6 @@
+Example of custom Roofit PDF.
+Tested in CMSSW_5_3_3, first compile the custom PDF in RooDoubleCB then launch the fitting code:
+
+python dataFit.py -a
+
+Note that the input files are in a public on CERN afs.
